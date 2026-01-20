@@ -1,0 +1,177 @@
+$MainInformation
+ [1] "\n\nMAIN INFORMATION ABOUT DATA\n\n"                  "Timespan                              2017 : 2026 \n"
+ [3] "Sources (Journals, Books, etc)        98 \n"          "Documents                             335 \n"        
+ [5] "Annual Growth Rate %                  8.01 \n"        "Document Average Age                  3 \n"          
+ [7] "Average citations per doc             88.07 \n"       "Average citations per year per doc    20.88 \n"      
+ [9] "References                            1 \n"           "\nDOCUMENT TYPES                     \n"             
+[11] "article                    131 \n"                    "article; early access      1 \n"                     
+[13] "conference paper           24 \n"                     "conference review          9 \n"                     
+[15] "proceedings paper          12 \n"                     "review                     3 \n"                     
+[17] "\nDOCUMENT CONTENTS\n"                                "Keywords Plus (ID)                    1098 \n"       
+[19] "Author's Keywords (DE)                324 \n"         "\nAUTHORS\n"                                         
+[21] "Authors                               683 \n"         "Author Appearances                    1511 \n"       
+[23] "Authors of single-authored docs       4 \n"           "\nAUTHORS COLLABORATION\n"                           
+[25] "Single-authored docs                  13 \n"          "Documents per Author                  0.49 \n"       
+[27] "Co-Authors per Doc                    4.51 \n"        "International co-authorships %        0.8955 \n"     
+[29] "\n"                                                  
+
+$MainInformationDF
+                          Description   Results
+1         MAIN INFORMATION ABOUT DATA          
+2                            Timespan 2017:2026
+3      Sources (Journals, Books, etc)        98
+4                           Documents       335
+5                Annual Growth Rate %      8.01
+6                Document Average Age         3
+7           Average citations per doc     88.07
+8  Average citations per year per doc     20.88
+9                          References         1
+10                     DOCUMENT TYPES          
+11                            article       131
+12              article; early access         1
+13                   conference paper        24
+14                  conference review         9
+15                  proceedings paper        12
+16                             review         3
+17                  DOCUMENT CONTENTS          
+18                 Keywords Plus (ID)      1098
+19             Author's Keywords (DE)       324
+20                            AUTHORS          
+21                            Authors       683
+22                 Author Appearances      1511
+23    Authors of single-authored docs         4
+24              AUTHORS COLLABORATION          
+25               Single-authored docs        13
+26               Documents per Author      0.49
+27                 Co-Authors per Doc      4.51
+28     International co-authorships %    0.8955
+29                                             
+
+$AnnualProduction
+   Year    Articles
+1     2017        2
+2     2018        1
+3     2019        1
+4     2020       18
+5     2021       43
+6     2022       74
+7     2023       45
+8     2024       72
+9     2025       75
+10    2026        4
+
+$AnnualGrowthRate
+[1] 8.01
+
+$MostProdAuthors
+   Authors        Articles Authors        Articles Fractionalized
+1       MONTH = J       47      MONTH = J                   10.68
+2       LI Z            19      NA N                        10.00
+3       LIU Y           18      WANG Y                       3.75
+4       LI J            17      LI Y                         3.71
+5       LI Y            16      LI Z                         3.45
+6       WANG Y          16      WANG J                       3.37
+7       ZHANG Y         15      ZHANG Y                      3.27
+8       MONTH = A       12      LIU Y                        3.13
+9       ZHANG X         12      LI J                         3.01
+10      ZHOU Y          12      MONTH = D                    2.88
+11      WANG J          11      MONTH = A                    2.65
+12      ZHANG L         11      ZHOU Y                       2.57
+13      MONTH = D       10      ZHANG L                      2.45
+14      MONTH = M       10      ZHANG X                      2.39
+15      NA N            10      YANG Y                       2.07
+16      WANG L          10      ZHANG Z                      2.06
+17      YANG Y          10      MONTH = M                    2.02
+18      LIU X            9      WANG L                       1.95
+19      ZHANG J          9      MONTH = N                    1.92
+20      ZHANG Z          9      ZHANG J                      1.90
+
+$MostCitedPapers
+                                          Paper                                        DOI   TC TCperYear    NTC
+1  ZHANG Y, 2022, NANA                                   10.1109/icus55513.2022.9986765    2771     554.2 35.886
+2  CHEN D, 2024, NANA                                    10.1109/icicsp62589.2024.10809310 2770     923.3 15.258
+3  DO T, 2024, NANA                                      10.1109/mapr63514.2024.10661071   2770     923.3 15.258
+4  SAVATHRAKIS G, 2024, NANA                             10.1109/wacvw60836.2024.00095     2690     896.7 14.818
+5  XIA G, 2018, NANA                                     10.1109/cvpr.2018.00418           2575     286.1  1.000
+6  LIU Z, 2017, NANA                                     10.1109/icip.2017.8296411         2381     238.1  2.000
+7  LI W, 2024, IEEE Trans. Geosci. Remote. Sens.         10.1109/tgrs.2023.3343453         2312     770.7 12.735
+8  WANG S, 2022, NANA                                    10.1109/igarss46834.2022.9884682  2153     430.6 27.883
+9  YIN R, 2021, NANA                                     10.1109/igarss47720.2021.9554931  2153     358.8 30.205
+10 LA T, 2024, NANA                                      10.1109/igarss53475.2024.10641796 2153     717.7 11.860
+11 CHEN K, 2020, NANA                                    10.48550/arxiv.2003.06832         2003     286.1 15.996
+12 SUN Z, 2021, REMOTE SENS                              10.3390/rs13214209                 254      42.3  3.563
+13 SUN Z, 2021, REMOTE SENS-BASEL                        10.3390/rs13214209                 236      39.3  3.311
+14 MING Q, 2022, IEEE T GEOSCI REMOTE                    10.1109/tgrs.2021.3095186          189      37.8  2.448
+15 HOESER T, 2020, REMOTE SENS-BASEL                     10.3390/rs12183053                 140      20.0  1.118
+16 XU C, 2022, J RADARS                                  10.12000/jr22007                   120      24.0  1.554
+17 MA X, 2021, IEEE J SEL TOP APPL EARTH OBS REMOTE SENS 10.1109/jstars.2021.3120009        101      16.8  1.417
+18 MA X, 2021, IEEE J-STARS                              10.1109/jstars.2021.3120009         86      14.3  1.207
+19 ZHANG X, 2023, IEEE GEOSC REM SEN M                   10.1109/mgrs.2023.3312347           86      21.5 11.382
+20 ZHU Y, 2020, IEEE T GEOSCI REMOTE                     10.1109/tgrs.2020.2981203           84      12.0  0.671
+
+$MostProdCountries
+   Country Articles    Freq SCP MCP MCP_Ratio
+1 CHINA         148 0.90798 146   2    0.0135
+2 KOREA           5 0.03067   5   0    0.0000
+3 INDIA           3 0.01840   3   0    0.0000
+4 ITALY           3 0.01840   3   0    0.0000
+5 USA             2 0.01227   2   0    0.0000
+6 GERMANY         1 0.00613   1   0    0.0000
+7 PAKISTAN        1 0.00613   0   1    1.0000
+
+$TCperCountries
+  Country      Total Citations Average Article Citations
+1     CHINA               2417                     16.33
+2     GERMANY              140                    140.00
+3     PAKISTAN              53                     53.00
+4     ITALY                 35                     11.67
+5     KOREA                 24                      4.80
+6     INDIA                  7                      2.33
+7     USA                    3                      1.50
+
+$MostRelSources
+                                                                     Sources        Articles
+1  REMOTE SENSING                                                                         47
+2  IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING       44
+3  IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING                                     35
+4  IEEE GEOSCIENCE AND REMOTE SENSING LETTERS                                             10
+5                                                                                          9
+6  IEEE ACCESS                                                                             6
+7  INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM (IGARSS)                          6
+8  JOURNAL OF MARINE SCIENCE AND ENGINEERING                                               6
+9  GEO-SPATIAL INFORMATION SCIENCE                                                         4
+10 JOURNAL OF APPLIED REMOTE SENSING                                                       4
+11 2022 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM (IGARSS 2022)           3
+12 ARTIFICIAL INTELLIGENCE REVIEW                                                          3
+13 COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE                                             3
+14 FRONTIERS IN MARINE SCIENCE                                                             3
+15 LECTURE NOTES IN COMPUTER SCIENCE                                                       3
+16 LECTURE NOTES IN ELECTRICAL ENGINEERING                                                 3
+17 LECTURE NOTES IN NETWORKS AND SYSTEMS                                                   3
+18 PROCEEDINGS OF SPIE - THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING                 3
+19 APPLIED INTELLIGENCE                                                                    2
+20 APPLIED OCEAN RESEARCH                                                                  2
+
+$MostRelKeywords
+            Author Keywords (DE)      Articles        Keywords-Plus (ID)     Articles
+1  DEEP LEARNING                            84 SHIP DETECTION                     124
+2  SHIP DETECTION                           65 DEEP LEARNING                      118
+3  REMOTE SENSING                           38 REMOTE SENSING                     117
+4  OBJECT DETECTION                         33 OBJECT DETECTION                    88
+5  SYNTHETIC APERTURE RADAR (SAR)           30 FEATURE EXTRACTION                  75
+6  REMOTE SENSING IMAGES                    21 SHIPS                               58
+7  FEATURE EXTRACTION                       18 MARINE VEHICLES                     57
+8  MARINE VEHICLES                          13 SYNTHETIC APERTURE RADAR            55
+9  ORIENTED OBJECT DETECTION                13 REMOTE SENSING IMAGES               39
+10 REMOTE SENSING IMAGE                     13 SATELLITE IMAGERY                   31
+11 DETECTORS                                11 OBJECT RECOGNITION                  30
+12 SYNTHETIC APERTURE RADAR                 10 RADAR IMAGING                       29
+13 TARGET DETECTION                          9 DETECTION METHOD                    24
+14 SAR                                       8 IMAGE ENHANCEMENT                   24
+15 CONVOLUTIONAL NEURAL NETWORK (CNN)        7 REMOTE-SENSING                      24
+16 FEATURE FUSION                            7 CONVOLUTION                         22
+17 ORIENTED BOUNDING BOX                     7 CONVOLUTIONAL NEURAL NETWORKS       22
+18 FINE-GRAINED SHIP DETECTION               6 OBJECTS DETECTION                   20
+19 ORIENTED DETECTION                        6 OPTICAL IMAGING                     20
+20 ORIENTED SHIP DETECTION                   6 DETECTORS                           19
+

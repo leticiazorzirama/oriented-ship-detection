@@ -220,3 +220,4 @@ checkpoints/
 runs/
 outputs/
 weights/
+.DS_Store
